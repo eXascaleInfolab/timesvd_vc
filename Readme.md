@@ -49,7 +49,7 @@ Example:
 	- #visual factors = 20,
 	- dataset = 390_actions
 
- - To test timesvd_vc, run the following command:
+ - In this case, the correspending command line is the following:
     ``` bash 
       python run.py timeSVDpp 100 10 20 20 390_actions
     ```
