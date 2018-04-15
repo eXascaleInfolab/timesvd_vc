@@ -9,7 +9,7 @@ D5.3: "Early demo for trend prediction".
 ### Installation:
 
 ``` bash 
-git clone https://github.com/../timesvd_vc
+git clone https://github.com/eXascaleInfolab/timesvd_vc.git
 cd timesvd_vc/
 ```
 
@@ -23,7 +23,9 @@ The source code contains the following python files:
 
 The following folders with regard to the data needed are provided:
  - datasets: the folder conatining the datasets used as a training set
- - image_features: Download the file image_features_Men.b from this link https://drive.google.com/open?id=1fexvEuk1MGKQL4KNYiTzEcLxxv0vWqL1 and add it to this folder.
+ - image_features: Download the file image_features_Men.b from this link:
+ https://drive.google.com/open?id=1fexvEuk1MGKQL4KNYiTzEcLxxv0vWqL1 
+ and add it to the folder image_features.
  
 
 ### Running the code 
