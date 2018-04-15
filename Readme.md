@@ -13,9 +13,9 @@ git clone https://github.com/eXascaleInfolab/timesvd_vc.git
 cd timesvd_vc/
 ```
 
-### Description of the "src" directory
+### Description of the "timesvd_vc" package
 
-The source code contains the following python files:
+The "timesvd_vc" package contains the following python files:
  - run.py (file for running the experiments)
  - timeSVDpp.py (the implementation of timeSVD++ model)
  - TVBPR.py (the implementation of TVBPR model)
@@ -49,7 +49,7 @@ Example:
 	- #visual factors = 20,
 	- dataset = 390_actions
 
- - In terminal and already being in the "timesvd_vc/" direcotry, run the following command:
+ - To test timesvd_vc, run the following command:
     ``` bash 
       python run.py timeSVDpp 100 10 20 20 390_actions
     ```
